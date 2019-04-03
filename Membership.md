@@ -1230,6 +1230,8 @@ Fees for not playing are solely issued by the Ministry of Games. Players
 MUST pay the fee; if they fail to do so, the M.O.G. MAY issue a citation
 that is up to three times as high as the original fee (treble damages).
 
+These fees do NOT apply if someone has a reasonable excuse (for example a revision session)
+
 ***Definitions:***
 
   - *missing a game* is when a Member is present within the Casino, but
